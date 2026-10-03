@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of empewoow/flarum-ext-auth-redirect.** Not for installation: use [Packagist](https://packagist.org/packages/empewoow/flarum-ext-auth-redirect) or the [upstream repository](https://github.com/empewoow/flarum-ext-auth-redirect).
 
-**0** versions archived · Latest: [`v0.1.0-beta.6`](https://github.com/flarchive/empewoow-flarum-ext-auth-redirect/tree/archive/v0.1.0-beta.6) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**6** versions archived · Latest: [`v0.1.0-beta.6`](https://github.com/flarchive/empewoow-flarum-ext-auth-redirect/tree/archive/v0.1.0-beta.6) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.1` | 2016-11-11 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/empewoow-flarum-ext-auth-redirect/tree/archive/v0.1.0-beta.1) |
+| `v0.1.0-beta.2` | 2016-11-12 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/empewoow-flarum-ext-auth-redirect/tree/archive/v0.1.0-beta.2) |
+| `v0.1.0-beta.3` | 2016-11-22 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/empewoow-flarum-ext-auth-redirect/tree/archive/v0.1.0-beta.3) |
+| `v0.1.0-beta.4` | 2016-11-24 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/empewoow-flarum-ext-auth-redirect/tree/archive/v0.1.0-beta.4) |
+| `v0.1.0-beta.5` | 2016-11-25 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/empewoow-flarum-ext-auth-redirect/tree/archive/v0.1.0-beta.5) |
+| `v0.1.0-beta.6` | 2017-01-05 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/empewoow-flarum-ext-auth-redirect/tree/archive/v0.1.0-beta.6) |
 
 Catalog entry: [packages/empewoow-flarum-ext-auth-redirect.json](https://github.com/flarchive/archive-index/blob/main/packages/empewoow-flarum-ext-auth-redirect.json)
 
